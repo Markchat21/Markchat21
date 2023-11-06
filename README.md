@@ -1,5 +1,5 @@
 ### Hi there, I'm Marcos 💬
-
+##I'm a tech enthusiast on my journey to becoming a software developer. I'm passionate about building innovative solutions and always excited to work on new and exciting projects. If you have a cool idea or a project you'd like to collaborate on, please don't hesitate to reach out! I'm open to new opportunities and eager to contribute my skills to make great things happen.
 <!--
 **Markchat21/Markchat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
